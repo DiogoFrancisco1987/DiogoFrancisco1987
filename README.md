@@ -1,6 +1,6 @@
 ## Olá, eu sou o Diogo Francisco! 
 
-### Estudante de Desenvolvimento de Sistemas | Focado em Python
+Estudante de Desenvolvimento de Sistemas | Focado em Python
 
 ## Sobre Mim
 Atualmente trabalho como **Eletricista de Manutenção Industrial**. Tenho mais de **20 anos de experiência na área elétrica**, sendo que, durante 8 anos, atuei diretamente com **programação Ladder para CLPs**. Também tive contato com as linguagens **Assembly** e **C** para microcontroladores em minha trajetória técnica.
