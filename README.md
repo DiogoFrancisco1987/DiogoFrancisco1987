@@ -17,5 +17,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <img align="center" alt="Java" height="40" width="40" 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-## Veja meu hitórico completo em:
+## Entre em contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-francisco-86869942)
