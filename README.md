@@ -14,12 +14,8 @@ Sou apaixonado por lógica e programação. No momento, estou mergulhado no apre
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-## 🚀 Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+<img align="center" alt="Java" height="40" width="40"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 ## Veja meu hitórico completo em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-francisco-86869942)
