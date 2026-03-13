@@ -16,5 +16,5 @@ Sou apaixonado por lógica e programação. No momento, estou mergulhado no apre
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 
-## Como me encontrar
+## Veja meu hitórico completo em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-francisco-86869942)
